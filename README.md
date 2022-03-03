@@ -13,24 +13,24 @@ We have performed two types of technical analysis in this project-
 
 1.	Outcomes Based on Launch Dates –
 -	Converted the launch date from Unix timestamp and used the =Year() function to extract the year from the date.
--	![Conversion&Year](images/Conversion_Year.png)
+![Conversion&Year](images/Conversion_Year.png)
 -	Created Pivot Table based on Launched Date and Outcomes
 -	Filtered the parent category and selected “Theatre”.
 -	Grouped the years into months to show the number of successful, failed and canceled theatre campaigns according to months.
--	![Pivot_Table](images/Pivot_Table.png)
--	![](images/Parent_Filter.png)
+![Pivot_Table](images/Pivot_Table.png)
+![](images/Parent_Filter.png)
 -	Finally,inserted a Line Chart to visualize the relationship between outcomes and launch dates.
--	![](images/Theater_Outcomes_vs_Launch.png)
+![](images/Theater_Outcomes_vs_Launch.png)
 
 2.	Outcomes Based on Goals 
 –Created a new Excel sheet to calculate the number of successful, failed and cancelled plays by dividing the goal amounts into different classes.
-![](images/Goal_Range.png)
--	Used the =COUNTIFS function in Excel to calculate the number of successful/failed/canceled plays for the different classes of the goal amounts.
--	![](images/countifs_edited.png)
+- ![](images/Goal_Range.png)
+- Used the =COUNTIFS function in Excel to calculate the number of successful/failed/canceled plays for the different classes of the goal amounts.
+![](images/countifs_edited.png)
 -	Added the total number of plays under each goal class and calculated the percentage of successful/failed/canceled campaigns for each class.
--	![](images/Percentage_edited.png)
+- ![](images/Percentage_edited.png)
 -	Inserted a line chart to visualize the relationship between the goal amount ranges and the percentage of successful/failed/canceled plays.
--	![](images/Outcomes_vs_Goals.png)
+![](images/Outcomes_vs_Goals.png)
 -	The main challenge I faced was with the COUNTIFS function. Although I knew the logic behind the function, I was not sure how to implement the same for a range like “1000-4999”. To overcome the challenge, I went through the hint video available on canvas several times to fully understand the concept. The video also helped me figure out that I needed to use Absolute Cell Reference to get the correct figures.
 
 #### Analysis of Outcomes Based on Launch Date
