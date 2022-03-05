@@ -61,6 +61,7 @@ Theatre plays are mostly successful when the goal amounts are less than $5000.Th
 
 -	We can perform a descriptive analysis on the data (goal and pledged amounts) to find the central tendency and variability and plot it on a Box and Whisker chart for visualization.
 -	We could also analyze the data by filtering the country to check where theatre campaigns have the highest chance of success.
+-	In ser a line chart to understand the trend in theatre campaign funding
 
  
 
