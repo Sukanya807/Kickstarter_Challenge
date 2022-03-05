@@ -55,6 +55,7 @@ Theatre plays are mostly successful when the goal amounts are less than $5000.Th
 -	The dataset is not very current. It only includes information about theatre campaigns launched till 2017.
 -	The dataset includes campaigns from different countries with different currencies but the goal and pledged amounts mentioned are in dollars.
 -	The data provided in the Spotlight and Staff Pick columns are not clear and therefore could not be analyzed.
+-	Lack of qualitative data regarding why the campaigns are successful or failing
 
 #### What are some other possible tables and/or graphs that we could create?
 
